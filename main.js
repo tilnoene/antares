@@ -5,7 +5,7 @@
 */
 
 dados = [[137, "Luciano Barreto", "3A", 98, 0, []],
-         [666, "Tio Demon", "2B", 23, 2, []]]
+         [666, "Irineu Silva", "2B", 23, 2, []]]
 
 function carregaValores(){
 	for (var i in dados){
